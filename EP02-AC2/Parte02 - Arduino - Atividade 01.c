@@ -30,6 +30,17 @@ void setup(){		// Configuração dos pinos
     digitalWrite(led13, LOW);
 }
 
+void control(int ciclos){ //controlador dos ciclos de led
+    for (int ciclo = 0; ciclo < ciclos; ciclo++) {
+        
+        digitalWrite(led10, HIGH);
+        delay(1000);
+
+        digitalWrite(led10, LOW);
+        delay(1000);
+    }
+}
+
 void loop(){		//Execução do programa
 
     digitalWrite(led13, HIGH);		
@@ -41,20 +52,10 @@ void loop(){		//Execução do programa
     digitalWrite(led11, LOW);
     
     digitalWrite(led12, HIGH); 		
-    control(2);						//led amarelo
+    control(2);						//led amarelo 
     digitalWrite(led12, LOW);
     
     delay(100);
 }//fim do loop
 
 
-void control(int ciclos){ //controlador dos ciclos de led
-    for (int ciclo = 0; ciclo < ciclos; ciclo++) {
-        
-        digitalWrite(led10, HIGH);
-        delay(1000);
-
-        digitalWrite(led10, LOW);
-        delay(1000);
-    }
-}

@@ -5,8 +5,8 @@ Neste exercício foi implementado um interpretador em JAVA para leitura do arqui
 ## Integrantes
 
 * [Hernane Velozo](https://github.com/hernanevelozo)
-* [Arthur Kazuo](https://github.com/ArturKazuo)
-* [Daniel Benevides](https://github.com/)
+* [Artur Kazuo](https://github.com/ArturKazuo)
+* [Daniel Benevides](https://github.com/DanGBenevides)
 * [Bernard Paes](https://github.com/)
 
 ## Professor

@@ -7,4 +7,10 @@
 
 * [Dr. Romanelli Lodron Zuim](https://www.escavador.com/sobre/2666679/romanelli-lodron-zuim)
 
+###  Exercícios Práticos / Relatórios
+- [EP01](https://github.com/hernanevelozo/PMG-AC2/tree/main/EP01%20-%20AC2)
+- [EP02](https://github.com/hernanevelozo/PMG-AC2/tree/main/EP02-AC2)
+- [EP03](https://github.com/hernanevelozo/PMG-AC2/tree/main/EP03%20-%20AC2)
+
+
 Este repositório contém todo os trabalhos realizados durante disciplina. Os meus códigos, trechos ou integrais, bem como os demais arquivos, podem ser utilizado por toda a comunidade. <br> Entretanto, não me responsabilizo em casos de plágio, seja por pessoa física ou jurídica. Tenha isso em mente.

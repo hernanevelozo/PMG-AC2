@@ -13,7 +13,7 @@
 - [EP03](https://github.com/hernanevelozo/PMG-AC2/tree/main/Pr%C3%A1ticos/EP03%20-%20AC2)
 
 ###  Exercícios Teóricos / Listas
-- [EP03](https://github.com/hernanevelozo/PMG-AC2/tree/main/Te%C3%B3ricos/Lista%2001)
-
+- [Lista 01](https://github.com/hernanevelozo/PMG-AC2/tree/main/Te%C3%B3ricos/Lista%2001)
+- [Lista 02](https://github.com/hernanevelozo/PMG-AC2/tree/main/Te%C3%B3ricos/Lista%2002)
 
 Este repositório contém todo os trabalhos realizados durante disciplina. Os meus códigos, trechos ou integrais, bem como os demais arquivos, podem ser utilizado por toda a comunidade. <br> Entretanto, não me responsabilizo em casos de plágio, seja por pessoa física ou jurídica. Tenha isso em mente.

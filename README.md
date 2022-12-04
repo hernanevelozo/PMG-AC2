@@ -11,6 +11,7 @@
 - [EP01](https://github.com/hernanevelozo/PMG-AC2/tree/main/Pr%C3%A1ticos/EP01%20-%20AC2)
 - [EP02](https://github.com/hernanevelozo/PMG-AC2/tree/main/Pr%C3%A1ticos/EP02%20-%20AC2)
 - [EP03](https://github.com/hernanevelozo/PMG-AC2/tree/main/Pr%C3%A1ticos/EP03%20-%20AC2)
+- [EP04](https://github.com/hernanevelozo/PMG-AC2/tree/main/Pr%C3%A1ticos/EP04%20-%20AC2)
 - [EP05](https://github.com/hernanevelozo/PMG-AC2/tree/main/Pr%C3%A1ticos/EP05%20-%20AC2)
 - [EP06](https://github.com/hernanevelozo/PMG-AC2/tree/main/Pr%C3%A1ticos/EP06%20-%20AC2)
 
